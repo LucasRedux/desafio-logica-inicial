@@ -21,4 +21,4 @@ function calculandoNivel(vitorias, derrotas) {
     console.log(`O Herói tem um saldo de ${saldoVitorias} e está no nível de ${nivel}`);
 }
 
-calculandoNivel(80, 10);
+calculandoNivel(40, 10);
